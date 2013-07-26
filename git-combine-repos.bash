@@ -15,8 +15,7 @@
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-# This script merges multiple Git Repositories into subdirectories of a new
-# repository, without loosing tags or branches.
+# Combining multiple Git Repositories with full branching and tagging history
 
 ########################
 # VARIABLE DEFINITIONS #
